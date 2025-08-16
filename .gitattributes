@@ -1,2 +1,318 @@
-# Auto detect text files and perform LF normalization
-* text=auto
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Personal Profile</title>
+</head>
+<body>
+<header>
+    <h1 style="text-align:center;">MY PERSONAL PROFILE  </h1>
+    <h2>Hello! I am Ansh , a B.tech Student at SRMS CET Bareilly.</h2>
+   <hr/>
+    <br>
+    <nav style="text-align:center;">
+  <a href="#intro">Introduction</a> |
+  <a href="#skills">Skills</a> |
+   <a href="#hobies">Hobbies</a>
+  <a href="#education">Education</a> |
+  <a href="#contact">Contact</a>
+</nav>
+<hr>
+</header>
+<section>
+    <img src="/photos/ansh.jpg" alt="My Picture" width="120">
+    <h3>Name: <i>ANSH RASTOGI</i></h3>
+    <p><b>Birth Date:</b> 05-04-2006</p>
+    <p><b>Gender:</b> Male</p>
+    <p><b>Age:</b> 20</p>
+    <p><b>University Roll No:</b> 2400140100014</p>
+
+    <hr>
+</section>
+    
+<main>
+    <h1 style="text-align:center;">My Introduction</h1>
+     <h2>
+    <p>My Name is Ansh Rastogi. I am from Bareilly (Uttar Pradesh). I have done my schooling from Smt G.D Memorial Public Inter College, Bareilly.</p>
+
+    <p>Currently, I am pursuing B.Tech (CSE) from Shri Ram Murti Smarak College Of Engineering and Technology, Bareilly.</p>
+
+    <p><b>My father's name:</b> Mr. Dileep Kumar Rastogi (Businessman)</p>
+    <p><b>My mother's name:</b> Mrs. Sangita Rastogi (Home Maker)</p>
+
+    <p>My hobbies are playing video games and playing badminton.</p>
+
+    <p>My strength is that I am a hardworking person, and my weakness is nervousness and stage fear.</p>
+
+    <p>My short-term goal is to get a job in a reputed company, and my long-term goal is to achieve a good position in the market and society like my father.</p>
+
+    <p><b>Thank You</b></p>
+    </h2>
+    <hr>
+<h3>For Coding Practice</h3><a href="https://www.hackerrank.com/"><b>Practice Now</b></a>
+<hr>
+    <h1><u>My Skills</u></h1>
+    <ul><h3>
+        <li>HTML</li>
+        <br>
+        <li>CSS</li>
+        <br>
+        <li>Python</li>
+        <br>
+        <li>C Programming</li>
+        <br>
+    </h3> 
+    </ul>
+    <h2>My Hobbies</h2>
+<ul><h3>
+  <li>Playing Video Games</li><br>
+  <li>Playing Badminton</li><br>
+  <li>Exploring Technology</li><br>
+</h3></ul>
+
+
+<br>
+   <p><h1>My Studies And College </h1>-<a href="/hello.html"><img src="/Photos/edu.png"width="200"><b>Click On Picture</b></a></p>
+
+ <hr>
+
+    <h2>My Social Profiles</h2>
+    <p><img src="/Photos/insta.jpeg" width="15">Instagram: <a href="https://www.instagram.com/vi___ansh_2305">Instagram Link</a></p><br>
+    <p><img src="/Photos/whatsapp.jpeg" width="15">WhatsApp: <a href="https://wa.me/916395179430?text=Hello%20Ansh" target="_blank">Whatsapp Link</a></p><br>
+    <p><img src="/Photos/download.jpeg" width="15">Telegram: <a href="https://t.me/Ansh_Vi_Rastogi" target="_blank">Telegram Link</a></p><br>
+ </main>
+ <footer style="text-align:center; margin-top:30px;">
+  <p>Made with ❤️ by Ansh Rastogi</p>
+  <p>Contact: anshr8266@gmail.com</p>
+</footer>
+
+</body>
+</html>
+# //Hello.html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <table border="4" width="1850"height="300">
+      <th colspan="1"> 
+       <caption><h1>MY INFORMATION</h1> </caption>
+        </th>
+        <tr>
+<th>
+                <h2>Name</h2>
+            </th>
+            <th> 
+                <h2>Education</h2>
+            </th>
+            <th> 
+                <h2>College</h2>
+           </th>
+           <th>
+            <h2>University E-Mail</h2>
+           </th>
+                
+            </th>
+            </tr>
+
+            <tr>
+              <td>
+                <h2>Ansh Rastogi</h2>
+              </td>
+              <td>
+                <p><h2>Bechelor of technology in CSE</h2></p>
+              </td>
+              <td>
+               <h2>SRMS College Of Engg. and Tech.</h2>
+              </td>
+              <td>
+                <h2>2400140100014@aktuacin.onmicrosoft.com</h2>
+              </td>
+            </tr>
+   </table>
+   <br><br>
+   <section>
+     <h1 style="text-align:center;">MY UNIVERSITY PROFILE</h1>
+     <h2>For University profile</h2><a href="https://erp.aktu.ac.in/login.aspx"><h4>Click Here</h4></a>
+     <main>
+       <h1 style="text-align:center;"><u>MY AKTU RESULT</u></h1>
+       <br>
+        <table border="3" width="1850"height="700">
+          <th>
+            <h2>Semester</h2>
+          </th>
+          <th>
+             <h2>Date Of Result Out</h2> 
+          </th>
+          <th>
+           <h2>Obtain Marks / Total Marks</h2> 
+          </th>
+          <th>
+           <h2> SGPA</h2>
+          </th>
+<tr>
+          <td>
+            <h4>Ist  sem</h4>
+          </td>
+          <td>
+            <h4>01/July/2025</h4>
+          </td>
+          <td>
+          <h4> 794/900</h4>
+          </td>
+          <td>
+           <h4>9.18</h4>
+          </td>
+          <tr>
+          <td>
+            IInd sem
+          </td>
+          <td>
+            Soon
+          </td>
+          <td>
+            ---
+          </td>
+          <td>
+            ---
+          </td>
+          </tr>
+          <tr>
+          <td>
+            IIIrd sem
+          </td>
+          <td>
+            Soon
+          </td>
+          <td>
+            ---
+          </td>
+          <td>
+            ---
+          </td>
+          </tr><tr>
+          <td>
+            IVth sem
+          </td>
+          <td>
+            Soon
+          </td>
+          <td>
+            ---
+          </td>
+          <td>
+            ---
+          </td>
+          </tr><tr>
+          <td>
+            Vth sem
+          </td>
+          <td>
+            Soon
+          </td>
+          <td>
+            ---
+          </td>
+          <td>
+            ---
+          </td>
+          </tr><tr>
+          <td>
+            VIth sem
+          </td>
+          <td>
+            Soon
+          </td>
+          <td>
+            ---
+          </td>
+          <td>
+            ---
+          </td>
+          </tr><tr>
+          <td>
+            VIIth sem
+          </td>
+          <td>
+            Soon
+          </td>
+          <td>
+            ---
+          </td>
+          <td>
+            ---
+          </td>
+          </tr><tr>
+          <td>
+            VIIIth sem
+          </td>
+          <td>
+            Soon
+          </td>
+          <td>
+            ---
+          </td>
+          </tr>
+
+       </table>
+     </main>
+     <br><br>
+     <hr><hr>
+    <h1 style="text-align:center;">Welcome To SRMS College<img src="/Photos/Srms logo 222.png"width="50"></h1><iframe height="500"width="1900"src="https://www.srms.ac.in/">Click For Cicular</iframe>
+   </section>
+   <section>
+    <br>
+    <br><br>
+    <hr>
+    <hr>
+    <h1 style="text-align:center;"><u>MY DOCUMENTS</u></h1>
+     <h3 style="text-align:center;">Presented by digilocker<img src="/photos/digilocker.jpeg" width="70"></h3>
+     <br><br>
+       <ul>
+        <h3>
+      <li><a href="/pdfs/download.pdf">Domicile Certificate</a></li>
+      <br>
+      <br>
+       <li><a href="/pdfs/Caste certificate.pdf">Caste Certificate</a></li>
+       <br>
+       <br>
+       <li><a href="/pdfs/10.pdf">10th Marksheet</a></li> 
+      <br><br>
+      <li><a href="/pdfs/12.pdf">12th Marksheet</a></li>
+       <br>
+       <br>
+       <li><a href="/pdfs/pan.pdf">PAN Card</a></li>
+       <br>
+       <br>
+       <li><a href="/pdfs/adhaar.pdf">Aadhar Card</a></li>
+       <br>
+       <br>
+       <li><a href="/pdfs/apaar id.pdf">Apaar ID</a></li>
+       <br> <br> 
+      </h3>
+      </ul>
+      </table>
+   </section>
+   <hr><hr>
+   <form>
+    <h2 style="text-align:center;">Contact Me</h2>
+    <br>
+  <label>Name: <input type="text" name="name"></label>
+  <br><br>
+  <label>Email: <input type="email" name="email"></label>
+  <br><br>
+  <label>Message: <textarea></textarea></label>
+  <br><br>
+  <button type="submit">Send</button>
+  <details>
+  <summary style="text-align: center;">📞 Click to see my Contact Number</summary>
+  <p><a href="tel:6395179430"><h3 style="text-align:center;">Call Me: 6395179430</h3></a></p>
+</details>
+
+</form>
+</body>
+</html>
